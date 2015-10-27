@@ -1,5 +1,5 @@
 - [ ] a task list item
 - [ ] list syntax required
 - [ ] normal **formatting**, @mentions, #1234 refs
-- [x] incomplete @expocookie
+- [x] incomplete
 - [x] completed
