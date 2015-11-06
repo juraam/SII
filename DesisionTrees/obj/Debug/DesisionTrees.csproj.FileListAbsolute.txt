@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\bin\Debug\DesisionTrees.exe.config
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\obj\Debug\DesisionTrees.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\obj\Debug\DesisionTrees.Properties.Resources.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\obj\Debug\DesisionTrees.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\bin\Debug\DesisionTrees.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\bin\Debug\DesisionTrees.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\obj\Debug\DesisionTrees.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\obj\Debug\DesisionTrees.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\bin\Debug\SII.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\bin\Debug\SII.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\obj\Debug\DesisionTrees.DesisionTreeMainWindow.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\bin\Debug\NeuroWnd.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\bin\Debug\NeuroWnd.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\DesisionTrees\obj\Debug\DesisionTrees.TreeUsingForm.resources

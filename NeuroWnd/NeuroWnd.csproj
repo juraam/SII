@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EB949E24-7CC4-45EF-8DAF-95E07A0C4BB6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NeuroWnd</RootNamespace>
+    <AssemblyName>NeuroWnd</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.94.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activate functions\ActivateFunctions.cs" />
+    <Compile Include="Activate functions\RadialbasedActivateFunction.cs" />
+    <Compile Include="Activate functions\SygmoidalActivateFunction.cs" />
+    <Compile Include="Activate functions\TangentialActivateFunction.cs" />
+    <Compile Include="AddChangeNeuroNetDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChangeNeuroNetDialog.Designer.cs">
+      <DependentUpon>AddChangeNeuroNetDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseHandler.cs" />
+    <Compile Include="DataContainer.cs" />
+    <Compile Include="LoadingWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingWindow.Designer.cs">
+      <DependentUpon>LoadingWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Neuro Nets\NeuroNetLearningInterface.cs" />
+    <Compile Include="NeuroNetsMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NeuroNetsMainWindow.Designer.cs">
+      <DependentUpon>NeuroNetsMainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Activate functions\HeavisideActivateFunction.cs" />
+    <Compile Include="Neuro Nets\Neuron definition\InputNeuron.cs" />
+    <Compile Include="LearningAlgorithms.cs" />
+    <Compile Include="Activate functions\LinearActivateFunction.cs" />
+    <Compile Include="Neuro Nets\Neuron definition\Neuron.cs" />
+    <Compile Include="Neuro Nets\NeuroNet.cs" />
+    <Compile Include="Neuro Nets\NeuroNetDefinition.cs" />
+    <Compile Include="Neuro Nets\Neuron definition\OutputNeuron.cs" />
+    <Compile Include="NeuroNetSolvingWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NeuroNetSolvingWindow.Designer.cs">
+      <DependentUpon>NeuroNetSolvingWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLiteConnector.cs" />
+    <Compile Include="Neuro Nets\Topologies.cs" />
+    <EmbeddedResource Include="AddChangeNeuroNetDialog.resx">
+      <DependentUpon>AddChangeNeuroNetDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingWindow.resx">
+      <DependentUpon>LoadingWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NeuroNetsMainWindow.resx">
+      <DependentUpon>NeuroNetsMainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NeuroNetSolvingWindow.resx">
+      <DependentUpon>NeuroNetSolvingWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SII\SII.csproj">
+      <Project>{D6D40C9A-0E37-410A-8D4F-E501D1648C1B}</Project>
+      <Name>SII</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

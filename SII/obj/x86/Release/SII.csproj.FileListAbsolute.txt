@@ -1,0 +1,10 @@
+D:\Jura\projects\Диплом\SII\SII\SII\bin\Release\SII.exe
+D:\Jura\projects\Диплом\SII\SII\SII\bin\Release\SII.pdb
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Release\SII.Form1.resources
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Release\SII.Properties.Resources.resources
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Release\SII.csproj.GenerateResource.Cache
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Release\SII.exe
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Release\SII.pdb
+D:\Jura\projects\Диплом\SII\SII\SII\bin\Release\System.Data.SQLite.dll
+D:\Jura\projects\Диплом\SII\SII\SII\bin\Release\System.Data.SQLite.xml
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Release\SII.csprojResolveAssemblyReference.cache

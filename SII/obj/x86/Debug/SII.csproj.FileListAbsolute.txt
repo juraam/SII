@@ -1,0 +1,57 @@
+D:\Jura\projects\Диплом\SII\SII\SII\bin\Debug\SII.exe
+D:\Jura\projects\Диплом\SII\SII\SII\bin\Debug\SII.pdb
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.Properties.Resources.resources
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.csproj.GenerateResource.Cache
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.exe
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.pdb
+D:\Jura\projects\Диплом\SII\SII\SII\bin\Debug\System.Data.SQLite.xml
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.csprojResolveAssemblyReference.cache
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.TaskForm.resources
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.ParametersForm.resources
+D:\Jura\projects\Диплом\SII\SII\SII\obj\x86\Debug\SII.SelectionForm.resources
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.exe
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.pdb
+C:\Users\Михаил\Desktop\SII_06\SII\SII\bin\Debug\SII.exe
+C:\Users\Михаил\Desktop\SII_06\SII\SII\bin\Debug\SII.pdb
+C:\Users\Михаил\Desktop\SII_06\SII\SII\bin\Debug\System.Data.SQLite.xml
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.SelectionForm.resources
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.TaskForm.resources
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.ParametersForm.resources
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.Properties.Resources.resources
+C:\Users\Михаил\Desktop\SII_06\SII\SII\obj\x86\Debug\SII.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\bin\Debug\SII.exe
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\bin\Debug\SII.pdb
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.SelectionForm.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.TaskForm.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.ParametersForm.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.Properties.Resources.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.exe
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.pdb
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\obj\x86\Debug\SII.csprojResolveAssemblyReference.cache
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\bin\Debug\SII.exe
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\bin\Debug\SII.pdb
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\bin\Debug\System.Data.SQLite.EF6.xml
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\bin\Debug\System.Data.SQLite.Linq.xml
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.csprojResolveAssemblyReference.cache
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.SelectionForm.resources
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.ParametersForm.resources
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.Properties.Resources.resources
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.csproj.GenerateResource.Cache
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.exe
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.pdb
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\SII\bin\Debug\System.Data.SQLite.Linq.xml
+D:\Jura\projects\Диплом\SII_git\SII_06\SII\SII\obj\x86\Debug\SII.TaskForm.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\bin\Debug\SII.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\bin\Debug\SII.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\obj\x86\Debug\SII.SelectionForm.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\obj\x86\Debug\SII.TaskForm.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\obj\x86\Debug\SII.ParametersForm.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\obj\x86\Debug\SII.Properties.Resources.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\obj\x86\Debug\SII.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\obj\x86\Debug\SII.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\obj\x86\Debug\SII.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\bin\Debug\SII.exe.CodeAnalysisLog.xml
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\SII\bin\Debug\SII.exe.lastcodeanalysissucceeded

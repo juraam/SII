@@ -1,0 +1,52 @@
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\bin\Debug\NeuroWnd.exe
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\bin\Debug\NeuroWnd.pdb
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\obj\x86\Debug\NeuroWnd.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\obj\x86\Debug\NeuroWnd.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\obj\x86\Debug\NeuroWnd.exe
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\obj\x86\Debug\NeuroWnd.pdb
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\bin\Debug\System.Data.SQLite.pdb
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\bin\Debug\System.Data.SQLite.xml
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\obj\x86\Debug\NeuroWnd.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2010\Projects\NeuroWnd\NeuroWnd\obj\x86\Debug\NeuroWnd.fmNeuroNets.resources
+C:\Users\Михаил\Documents\Visual Studio 2010\Projects\NeuroWnd\NeuroWnd\bin\Debug\SII.exe
+C:\Users\Михаил\Documents\Visual Studio 2010\Projects\NeuroWnd\NeuroWnd\bin\Debug\SII.pdb
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.exe
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.pdb
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.exe
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.pdb
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\bin\Debug\SII.exe
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\bin\Debug\SII.pdb
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\bin\Debug\System.Data.SQLite.xml
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.fmNeuroNets.resources
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.Properties.Resources.resources
+C:\Users\Михаил\Desktop\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.exe
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.pdb
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\bin\Debug\SII.exe
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\bin\Debug\SII.pdb
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.AddChangeNeuroNetDialog.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.Properties.Resources.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.exe
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.pdb
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.NeuroNetSolvingWindow.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.NeuroNetsMainWindow.resources
+C:\Users\Михаил\Documents\Документы по проектам\Дипломная работа\Репозиторий\SII\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.LoadingWindow.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\bin\Debug\SII.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\bin\Debug\SII.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.AddChangeNeuroNetDialog.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.LoadingWindow.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.NeuroNetsMainWindow.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.NeuroNetSolvingWindow.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.Properties.Resources.resources
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.exe
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\obj\x86\Debug\NeuroWnd.pdb
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.exe.CodeAnalysisLog.xml
+C:\Users\Denis\Desktop\ДИПЛОМ\juramoshkov-sii-df6a689311ba\SII_06\SII\NeuroWnd\bin\Debug\NeuroWnd.exe.lastcodeanalysissucceeded
